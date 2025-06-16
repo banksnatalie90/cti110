@@ -1,2 +1,4 @@
-# cti110
-CTI110 respository
+# CTI 11O Repository
+Created for P1LAB1
+Banks
+June 16 2025
